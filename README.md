@@ -194,7 +194,7 @@ This project is for educational and demonstration purposes.
 
 ## DEMO Purpose
 ## Live Transcription & Suggestions
-![Demo4](./images/img4.png)
+![Demo4](AI_sales-Model-main/images/img4.png)
 
 ## Product Recommendation
 ![Demo1](./images/img1.png)
