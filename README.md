@@ -197,11 +197,11 @@ This project is for educational and demonstration purposes.
 ![Demo4](AI_sales-Model-main/images/img4.png)
 
 ## Product Recommendation
-![Demo1](./images/img1.png)
+![Demo1](AI_sales-Model-main/images/img1.png)
 
 ## Overall Post-Call Summary
-![Demo3](./images/img3.png)
-![Demo2](./images/img2.png)
+![Demo3](AI_sales-Model-main/images/img3.png)
+![Demo2](AI_sales-Model-main/images/img2.png)
 
 
 
