@@ -1,5 +1,5 @@
-# 🤖 Real-Time-AI-Sales-Calls-Assistant-INFOSYS-INTERNSHIP
-# ⚡ Fast Whisper – Optimized Speech-to-Text System
+# 🤖 Real-Time-AI-Sales-Calls-Assistant (Infosys Springboard Internship)
+# ⚡ Fast Whisper : Optimized Speech-to-Text System
 
 Fast Whisper is an **optimized, faster, and memory-efficient implementation** of OpenAI’s Whisper Automatic Speech Recognition (ASR) model.  
 It delivers **real-time transcription** performance while retaining Whisper’s **multilingual accuracy** and **robust handling of accents**. 
