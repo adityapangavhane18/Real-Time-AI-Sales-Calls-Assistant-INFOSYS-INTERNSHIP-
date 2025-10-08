@@ -197,7 +197,7 @@ This project is for educational and demonstration purposes.
 ![Demo4](./images/img4.png)
 
 ## Product Recommendation
-![Demo1](E:\Desktop\AI_sales-Model-main\images)
+![Demo1](./images/img1.png)
 
 ## Overall Post-Call Summary
 ![Demo3](./images/img3.png)
