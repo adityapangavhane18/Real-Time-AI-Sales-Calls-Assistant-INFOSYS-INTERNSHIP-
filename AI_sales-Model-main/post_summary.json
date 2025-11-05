@@ -1,0 +1,17 @@
+{
+  "transcript": "Please go.",
+  "sentiment": "neutral",
+  "summary": "No summary available",
+  "structured": {
+    "sentiment": "neutral",
+    "summary": "No summary available",
+    "customer_intent": "unknown",
+    "key_topics": [],
+    "objections": [],
+    "resolutions": [],
+    "next_steps": [],
+    "recommended_follow_up": "",
+    "win_risk": "medium",
+    "call_score": 7
+  }
+}
